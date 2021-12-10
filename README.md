@@ -1,3 +1,3 @@
-![](https://komarev.com/ghpvc/?username=jmccschool&style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=jmccschool&style=flat-square)
 
-Hi, I’m @JMCCschool, Joseph McCann's school account
+Yo, I’m @JMCCschool, Joseph McCann's school account
